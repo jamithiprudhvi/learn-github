@@ -28,4 +28,4 @@ now it is completed
 ### conflicts
 
 * This is developer 1. I want to keep it line of code.
-* 
+* This again from developer 1 adding more code
