@@ -34,4 +34,8 @@ now it is completed
 ### Developer 2
 
 Iam developer 2 adding some features
+<<<<<<< HEAD
 
+=======
+Iam developer-2 just now it is completed
+>>>>>>> ff14b0b (commit 2from developer-2)
