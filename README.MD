@@ -20,3 +20,4 @@ rebase is another merge strategy
 
 doing started development
 adding more code
+now it is completed
