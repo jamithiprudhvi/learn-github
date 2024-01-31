@@ -24,3 +24,8 @@ rebase and merge
 doing started development
 adding more code
 now it is completed
+
+### conflicts
+
+* This is developer 1. I want to keep it line of code.
+* 
