@@ -16,4 +16,11 @@ rebase is another merge strategy
 * still developing
 * now development is completed
 
+
 rebase and merge
+=======
+### squash
+
+doing started development
+adding more code
+now it is completed
