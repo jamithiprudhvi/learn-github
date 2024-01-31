@@ -19,3 +19,4 @@ rebase is another merge strategy
 ### squash
 
 doing started development
+adding more code
