@@ -1,4 +1,4 @@
-### GIT
+### GIiT
 This is first commit from main branch
 
 commit 1 ; feature-1
@@ -25,7 +25,13 @@ doing started development
 adding more code
 now it is completed
 
+
 ### conflicts
 
 * This is developer 1. I want to keep it line of code.
 * This again from developer 1 adding more code
+=======
+### Developer 2
+
+Iam developer 2 adding some features
+
