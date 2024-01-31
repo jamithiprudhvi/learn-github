@@ -15,3 +15,5 @@ commit 1 ; feature-4
 rebase is another merge strategy 
 * still developing
 * now development is completed
+
+rebase and merge
